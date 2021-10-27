@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mani Deepak
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working as Software Developer
+- 👀 Data Science Enthusist
+- 🌱 Working Professional at Tech M
 - 💞️ I’m looking to collaborate on Data Science related projects 
 - 📫 How to reach me https://www.linkedin.com/in/manideepak-deevi-4b03b280/
